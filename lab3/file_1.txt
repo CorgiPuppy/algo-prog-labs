@@ -1,0 +1,10 @@
+array_int[0] =   5	array_double[0] = 68.79
+array_int[1] =  42	array_double[1] = 82.78
+array_int[2] = -85	array_double[2] = -70.29
+array_int[3] = -93	array_double[3] = 0.25
+array_int[4] = -61	array_double[4] = 20.49
+array_int[5] = -53	array_double[5] = -33.49
+array_int[6] =  92	array_double[6] = -98.43
+array_int[7] =  15	array_double[7] = 97.17
+array_int[8] =  72	array_double[8] = 47.33
+array_int[9] = -14	array_double[9] = 68.00

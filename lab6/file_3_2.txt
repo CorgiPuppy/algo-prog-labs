@@ -1,0 +1,15 @@
+pumpkin 300 6500
+tomato 250 6100
+beetroot 150 5500
+carrot 200 7000
+cabbage 100 4950
+green 350 6900
+tomato 250 5850
+beetroot 200 5500
+melon 200 6900
+cabbage 150 4800
+carrot 350 6000
+potato 500 8200
+onion 400 5000
+pumpkin 50 4000
+potato 150 4700
