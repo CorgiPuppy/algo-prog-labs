@@ -1,0 +1,17 @@
+
+Method_simple_sort:
+Time measured: 0.000000 seconds.
+Number of iterations: 4
+
+Method_puzirek:
+Time measured: 0.000000 seconds.
+Number of iterations: 4
+
+Method_comb_sort:
+Time measured: 0.000000 seconds.
+Number of iterations: 4
+
+Method_Shell_sort:
+Time measured: 0.004000 seconds.
+Number of iterations: 4
+

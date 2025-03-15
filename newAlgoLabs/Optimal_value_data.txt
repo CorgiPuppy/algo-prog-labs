@@ -1,0 +1,25 @@
+
+                        Method_golden_ratio
+
+	x = -0.352183
+	f(x) = 0.827184
+
+                          Method_polyline
+
+	x = -0.641492
+	f(x) = 0.827246
+
+                          Method_tangent
+
+	x = -0.352373
+	f(x) = 0.827185
+
+                           Method_Newton
+
+	x = -0.351511
+	f(x) = 0.827184
+
+                        Method_dichotomy
+
+	x = -0.355469
+	f(x) = 0.827203

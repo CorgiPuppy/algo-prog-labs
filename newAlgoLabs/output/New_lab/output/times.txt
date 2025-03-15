@@ -1,0 +1,72 @@
+Method_simple_sort:
+Time measured: 0.005000 seconds.
+Number of iterations: 999
+Method_puzirek:
+Time measured: 0.000000 seconds.
+Number of iterations: 0
+Method_comb_sort:
+Time measured: 0.000000 seconds.
+Number of iterations: 7741
+Method_simple_sort:
+Time measured: 0.006000 seconds.
+Number of iterations: 999
+Method_puzirek:
+Time measured: 0.001000 seconds.
+Number of iterations: 1
+Method_comb_sort:
+Time measured: 0.000000 seconds.
+Number of iterations: 7708
+Method_simple_sort:
+Time measured: 0.007000 seconds.
+Number of iterations: 999
+Method_puzirek:
+Time measured: 0.000000 seconds.
+Number of iterations: 0
+Method_comb_sort:
+Time measured: 0.001000 seconds.
+Number of iterations: 7491
+Method_simple_sort:
+Time measured: 0.009000 seconds.
+Number of iterations: 999
+Method_puzirek:
+Time measured: 0.001000 seconds.
+Number of iterations: 0
+Method_comb_sort:
+Time measured: 0.001000 seconds.
+Number of iterations: 7265
+Method_simple_sort:
+Time measured: 0.007000 seconds.
+Number of iterations: 999
+Method_puzirek:
+Time measured: 0.000000 seconds.
+Number of iterations: 0
+Method_comb_sort:
+Time measured: 0.000000 seconds.
+Number of iterations: 7446
+Method_simple_sort:
+Time measured: 0.014000 seconds.
+Number of iterations: 999
+Method_puzirek:
+Time measured: 0.001000 seconds.
+Number of iterations: 0
+Method_comb_sort:
+Time measured: 0.001000 seconds.
+Number of iterations: 7718
+Method_simple_sort:
+Time measured: 0.009000 seconds.
+Number of iterations: 999
+Method_puzirek:
+Time measured: 0.002000 seconds.
+Number of iterations: 257325
+Method_comb_sort:
+Time measured: 0.001000 seconds.
+Number of iterations: 7700
+Method_simple_sort:
+Time measured: 0.008000 seconds.
+Number of iterations: 999
+Method_puzirek:
+Time measured: 0.001000 seconds.
+Number of iterations: 0
+Method_comb_sort:
+Time measured: 0.001000 seconds.
+Number of iterations: 7165
