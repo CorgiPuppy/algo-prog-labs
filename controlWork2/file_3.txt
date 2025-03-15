@@ -1,0 +1,4 @@
+
+	Array_minimum_values:  11  -5  31  43   7  15 
+
+	Max_value_of_minimum_values:  43

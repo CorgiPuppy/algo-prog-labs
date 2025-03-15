@@ -1,0 +1,3 @@
+Every 15 letter: r o 
+The second half of string:
+w are you? I am fine.
